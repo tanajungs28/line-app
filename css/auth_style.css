@@ -1,0 +1,25 @@
+/* 全体のサイズと背景色設定 */
+body {
+    background-color: black;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button_area {
+    background-color: bisque;
+    width: 600px;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+#sign-in-button {
+    margin-left: 200px;
+    margin-top: 280px;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+}
