@@ -7,6 +7,7 @@
 - firebaseを活用し、入力したメッセージを表示してくれるアプリ
 
 ## ③DEMO
+- https://tanajungs28.github.io/line-app/
 
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
@@ -41,13 +42,13 @@
 
 - [参考記事]
   - 1.jQueryのappendでDOM要素を追加する方法まとめ！
-   [https://www.sejuku.net/blog/37847]
+  - [https://www.sejuku.net/blog/37847]
     
   - 2.【初心者向け】HTMLのチェックボックスの値をJavaScriptで取得・設定する手順を徹底解説
-   [https://ui-hack.com/programming/javascript/javascript_checkbox_getset/]
+  - [https://ui-hack.com/programming/javascript/javascript_checkbox_getset/]
 
   - 3.【Firebase】Realtime Database（version 9）データ操作あれこれ
-   [https://qiita.com/shiho97797/items/de25f6d61f99497c4a35]
+  - [https://qiita.com/shiho97797/items/de25f6d61f99497c4a35]
 
   - 4.aタグではなくJavaScriptで画面を移動させる方法【location】
-   [https://lorem-co-ltd.com/js-location/]
+  - [https://lorem-co-ltd.com/js-location/]
